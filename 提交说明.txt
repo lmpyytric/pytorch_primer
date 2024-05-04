@@ -1,0 +1,23 @@
+初始化管理窗口：git init
+配置邮箱 ：git config --global user.email"2466476710@qq.com" 
+名字：git config --global user.name"Impyytric"
+添加所有文件：git  add  .
+提交所有文件：git commit -m "ds"
+.ssh文件：ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQClNHnjAPZm5DnqpmunA4pPMGCQBZpdng82OOP0tUWcHv1Xe3VX3h+RRhhL6BJlJqssWb63f7wtrGvXaftIeSTXKS5Q69lb/vcy4Lzaou6lilAivUTE5RDdn5Dg6jiAzOTpP2XXM9VrmLx/R67zB8pSxTpRzLr2bz6MKSPNbZCKll4m1WwBQr8IfnLT8pGLobBBZMyJnz7ysLCscfLgCxhllegDzmqiSeqz46FfsXxLOkLK1m7G+CjiYNArYmVzE4r8m2rvOW6HgS6NY1t/bZF4G0cX2fvxNSAHgU4f17NE4djISlU+5ANNPJiwbc/YEITF4BV//cmAYUXChJIREm7oirR1Lr7Zp4xVA4iBw/dTrp+v0HNqkOFl1HFtd3D7JRUxn4TzNhRbTlstXdhjy5RWI8ffj7ZWCxaBkF2IK0KkKyZMulMJOQAl8Fsxz8iUvyz0blybKahZlRgPd5DTJXP/HaxIZIEDaxySYeKKJqxt/JtfVIC1nD5ZP2BeDtfbhmM= 2466476710@qq.com
+配置哪个仓库：git remote add origin https://github.com/Aurorajwj/KnowledgeGraph-of-Tang-and-Song-Poetry.git
+origin 后面是自己的仓库url地址
+代码上传：git push -u origin master(非空去掉-u)
+
+
+添加：git add<file> 提交单个文件   $ git add <directory>   // 将要提交的目录添加到暂存区                     $ git add '*.txt'                      // 将修改过的所有txt文件添加到暂存区
+提交：git commit -m
+配置仓库：
+上传：
+看状态：git status
+
+git仓库
+pytorch——primer  ：https://github.com/lmpyytric/pytorch_primer.git
+
+
+
+
